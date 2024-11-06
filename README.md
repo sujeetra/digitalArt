@@ -63,3 +63,4 @@ Start the server
 
 ## [Demo](https://digital-art-e-commerce.vercel.app/)
 
+# digitalArt
